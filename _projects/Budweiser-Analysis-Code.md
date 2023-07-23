@@ -4,7 +4,7 @@ title: DDS Project 1
 description: Project investigating datasets for breweries and beer
 img: assets/img/beer_pic.jpg
 importance: 1
-category: work
+category: School
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
