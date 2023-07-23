@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of projects for school, and for general exploration.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [School, Exploration, work, fun]
 horizontal: false
 ---
 
