@@ -379,6 +379,11 @@ predict Attrition (categorical) and a model to predict Monthly Salary
 </div>
 <div id="exploratory-data-analysis-eda" class="section level2">
 <h2>Exploratory Data Analysis (EDA)</h2>
+<div id="rshiny-app" class="section level3">
+<h3>RShiny App</h3>
+<p>This link goes to an RShiny page which will let you play around with the data 
+in real time.</p>
+<p><a href= "https://aabromowitz.shinyapps.io/DDSProject2/">EDA App for Employee Data</a></p>
 <div id="load-packages" class="section level3">
 <h3>Load Packages</h3>
 <p>Several packages will be needed for later analysis</p>
