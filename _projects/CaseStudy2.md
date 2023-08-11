@@ -381,6 +381,10 @@ predict Attrition (categorical) and a model to predict Monthly Salary
 <p>This link goes to the Github repository where my predictions (plus other files) are being stored.</p>
 <p><a href= "https://github.com/aabromowitz/SMU_DDS_Project2">Github Repository</a></p>
 </div>
+<h3>Presentation</h3>
+<p>Here is a link to the YouTube video of my presentation.</p>
+<p><a href= "https://www.youtube.com/watch?v=2hpjO0pvhPI">Presentation</a></p>
+</div>
 <div id="exploratory-data-analysis-eda" class="section level2">
 <h2>Exploratory Data Analysis (EDA)</h2>
 <div id="rshiny-app" class="section level3">
