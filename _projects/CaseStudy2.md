@@ -2,7 +2,7 @@
 layout: page
 title: DDS Project 2
 description: Project investigating employee dataset for DDS Analytics
-img: assets/img/beer_pic.jpg
+img: assets/img/Bar_StockOptionAndMaritalStatus.png
 importance: 1
 category: School
 related_publications: 
