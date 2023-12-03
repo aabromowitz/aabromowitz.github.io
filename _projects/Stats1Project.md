@@ -8,4 +8,4 @@ category: School
 related_publications: 
 ---
 
-[PDF](./Stats1Project.pdf)
+[PDF](Stats1Project.pdf)
