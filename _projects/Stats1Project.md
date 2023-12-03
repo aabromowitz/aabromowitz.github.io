@@ -8,4 +8,25 @@ category: School
 related_publications:
 ---
 
-[PDF](https://github.com/aabromowitz/aabromowitz.github.io/blob/master/_projects/Stats1Project.pdf)
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>DDS Budweiser Analysis</title>
+
+</head>
+
+<body>
+
+<object
+type = "application/pdf"
+data = "C:\Users\aabro\OneDrive\Desktop\SMU Program\GithubIo\aabromowitz.github.io\_projects\Stats1Project.pdf"
+width = 1000
+height = 1000
+>
+
+</body>
+
+</html>
