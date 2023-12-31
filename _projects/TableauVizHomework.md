@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Olympics Tableau Visualization
-description: Viz homeworkwork where I used Tableau to visualize some Olympics data
-img: assets/img/Olympic_Rings_Screenshot.jpg
+description: Data Visualization homework where I used Tableau with an Olympics dataset
+img: assets/img/Olympic_Rings_Screenshot.png
 importance: 1
 category: School
 related_publications:
