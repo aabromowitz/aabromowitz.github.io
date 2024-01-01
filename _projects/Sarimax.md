@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Sarimax Project
-description: Project Portland transit riders using the SARIMAX algorithm
-img: assets/img/PortlandRiders.jpg
+description: Project investigating Portland transit riders using the SARIMAX algorithm
+img: assets/img/PortlandBuses.jpg
 importance: 1
 category: Exploration
 related_publications: 
