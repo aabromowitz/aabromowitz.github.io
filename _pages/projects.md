@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of projects for school, and for general exploration.
 nav: true
 nav_order: 2
-display_categories: [School, Exploration]
+display_categories: [Top, School, Exploration]
 horizontal: false
 ---
 
